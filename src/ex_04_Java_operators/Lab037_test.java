@@ -19,9 +19,9 @@ public class Lab037_test {
         short s = 10;
         char c = 'A';
         String s1 = "A";
-        System.out.println(c+s);
-        System.out.println(c);
-        System.out.println(c+c);
+        System.out.println(c+s); // 10+65
+        System.out.println(c); // A
+        System.out.println(c+c);//130
         System.out.println(c+s1);// concatenation
     }
 }
