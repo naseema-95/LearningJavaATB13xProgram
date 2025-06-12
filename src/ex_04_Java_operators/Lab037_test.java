@@ -22,6 +22,6 @@ public class Lab037_test {
         System.out.println(c+s); // 10+65
         System.out.println(c); // A
         System.out.println(c+c);//130
-        System.out.println(c+s1);// concatenation
+        System.out.println(c+s1); // concatenation
     }
 }
